@@ -197,31 +197,31 @@ output 1
 ![output 1](https://user-images.githubusercontent.com/119477832/213467217-d019d92b-3151-4f59-aae8-3c17527908a4.png)
 
 
-![output](./screenshot/output 2.png)
+output 2
 
 
 ![output 2](https://user-images.githubusercontent.com/119477832/213475291-91ab4375-df1f-4df1-87a1-69b44fa783c9.png)
 
 
-![output](./screenshot/output 3.png)
+output 3
 
 
 ![output  3](https://user-images.githubusercontent.com/119477832/213475436-bd0c6497-788e-4b8c-8ed1-4c3a0de8b6ca.png)
 
 
-![output](./screenshot/output 4.png)
+output 4
 
 
 ![output 4](https://user-images.githubusercontent.com/119477832/213475585-a2304eb8-fc0c-4cf0-9def-53ab28f0f0df.png)
 
 
-![output](./screenshot/output 5.png)
+output 5
 
 
 ![output 5](https://user-images.githubusercontent.com/119477832/213475797-1c9d18f4-c198-4137-9c10-a5bccae90078.png)
 
 
-![output](./screenshot/map.png)
+output 6
 
 
 
@@ -230,7 +230,7 @@ output 1
 
 
 ### HTML validator:
-![HTML validator](./screenshot/validation.png)
+validation report:
 
 
 
